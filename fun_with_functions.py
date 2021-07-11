@@ -1,4 +1,3 @@
-print("Hello Guys")
 #capitalize all the data that a user enters
 #first name
 #middle name
